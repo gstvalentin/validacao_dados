@@ -1,1 +1,1 @@
-print('creu')
+print('creu sd')
