@@ -1,4 +1,24 @@
-from cpf import Cpf
+from cpf_cnpj import Documento
+from telefonebr import telefonebr
 
-cpf = Cpf('7015fdsa4618110')
-print(cpf)
+tele = '5571865492156'
+
+print(telefonebr(tele))
+
+
+
+
+
+
+
+
+
+
+
+
+# cnpj = Documento.cria_documento('75209031000156')
+# print(cnpj)
+
+# cpf = Documento.cria_documento('25354684099')
+# print(cpf)
+
